@@ -1,0 +1,5 @@
+/home/pi/projects/gpioserver/build/CMakeFiles/rebuild_cache.dir
+/home/pi/projects/gpioserver/build/CMakeFiles/edit_cache.dir
+/home/pi/projects/gpioserver/build/console/CMakeFiles/rebuild_cache.dir
+/home/pi/projects/gpioserver/build/console/CMakeFiles/server.dir
+/home/pi/projects/gpioserver/build/console/CMakeFiles/edit_cache.dir
